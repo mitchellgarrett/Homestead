@@ -1,0 +1,41 @@
+Welcome to Homestead, a game made by Mitchell Garrett!
+
+
+How to navigate the main menu:
+
+As you have already figured out, you can navigate the main menu using W/S/enter.
+
+
+How to play:
+
+Move your cursor around the map using W/A/S/D
+
+When you start a new game you will be given a overhead view of your village.
+At the top left you will see you village stats such as food, population, and resources.
+At the top right you will see the current day (15 days in a season, 4 seasons in a year).
+
+At the bottom left you will see another menu. Pressing the first letter of each option will select that option.
+'Buildings' will open the buildings menu.
+'Villagers' will open the villagers menu.
+'End day' will skip to the next turn.
+
+Once you enter a submenu you can exit using 'q' or repeating the first letter of that menu.
+
+When you open the buildings menu you will see a list of buildings that can be built, with their associated wood (w) and stone (s) costs.
+Navigate the buildings menu using W/D and build that building with enter. 
+But be careful, the building will be placed where your cursor is on the map so make sure there is plenty of space.
+
+When you open the villagers menu you will see you villager stats.
+You will see your current population/max population, your current number of children/adults, 
+how many unemployed adults there are, and how many of each specific worker you have.
+If you have unemployed workers, you can navigate the workers menu using W/S and add/subtract workers with +/-.
+
+
+Food and Villagers:
+
+Each villager eats one food a day. If you do not have enough food to sustain your villagers, they will start dying off.
+When you have enough food in your stores (3 * population), then a new villager will be born. 
+Villagers are children for one whole year, then they become adults and are added to the work force.
+
+
+Thank you for playing Homestead!
